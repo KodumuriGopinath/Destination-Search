@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-items-constainer {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.list-item {
+  margin-right: 35px;
+  margin-bottom: 28px;
+}
+.image-item {
+  width: 300px;
+}
